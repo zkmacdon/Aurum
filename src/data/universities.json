@@ -1,0 +1,8 @@
+[
+    {"program": "Engineering",
+    "tuition": 13000},
+    {"program": "Arts",
+    "tuition": 7000},
+    {"program": "Science",
+    "tuition": 7000}
+]
